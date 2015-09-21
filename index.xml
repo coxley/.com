@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codey Oxley</title>
+    <link>http://www.coxley.com/</link>
+    <description>Recent content on Codey Oxley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2015 21:42:20 -0700</lastBuildDate>
+    <atom:link href="http://www.coxley.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Initial post</title>
+      <link>http://www.coxley.com/inital/</link>
+      <pubDate>Sun, 20 Sep 2015 21:42:20 -0700</pubDate>
+      
+      <guid>http://www.coxley.com/inital/</guid>
+      <description>
+
+&lt;p&gt;Initial blog post.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-going-on:917cfd90a1fe24ff6d58fa05884fda9e&#34;&gt;What&amp;rsquo;s going on&lt;/h2&gt;
+
+&lt;p&gt;Using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; to generate static files, I&amp;rsquo;ve created this
+space on the inet. The plan, at least, is to stop having lengthy discussions in
+my head during commutes and use this as a home for them instead.&lt;/p&gt;
+
+&lt;p&gt;I work professionally somewhere between a network and systems engineer in the
+Bay area and am very opinionated. Things to watch this space for in the coming
+weeks may include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Previous experience automating Cisco devices&lt;/li&gt;
+&lt;li&gt;Get the most out of the &lt;code&gt;Trigger&lt;/code&gt; automation toolkit&lt;/li&gt;
+&lt;li&gt;Using NSoT as a single source of truth for both Trigger and Ansible&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;ve tried this in the past and never kept going, though in that case I never
+made an initial post. We&amp;rsquo;ll see&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://www.coxley.com/about/</link>
+      <pubDate>Sun, 20 Sep 2015 20:50:10 -0700</pubDate>
+      
+      <guid>http://www.coxley.com/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m an ops engineer @ &lt;a href=&#34;http://yelp.com/engineering&#34;&gt;Yelp&lt;/a&gt;, working on systems
+and networking.&lt;/p&gt;
+
+&lt;p&gt;Am a big proponent of End-to-End engineering, network automation, a programmer
+by trade and strict follower of UNIX philosophies.&lt;/p&gt;
+
+&lt;p&gt;Want to learn more? Feel free to check out my
+&lt;a href=&#34;http://resume.coxley.com&#34;&gt;resume&lt;/a&gt; or reach out to &lt;code&gt;codey&lt;/code&gt; on Freenode where I
+call &lt;code&gt;#packetpushers&lt;/code&gt; home.&lt;/p&gt;
+
+&lt;h4 id=&#34;notice:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Notice&lt;/h4&gt;
+
+&lt;p&gt;Should go without saying but my views solely represent me, not my employer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
