@@ -13,3 +13,7 @@ by trade and strict follower of UNIX philosophies.
 Want to learn more? Feel free to check out my
 [resume](http://resume.coxley.com) or reach out to `codey` on Freenode where I
 call `#packetpushers` home.
+
+#### Notice
+
+Should go without saying but my views solely represent me, not my employer.
