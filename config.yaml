@@ -2,7 +2,7 @@
 baseurl: "http://www.coxley.com/"
 languageCode: "en-us"
 title: "Codey Oxley"
-theme: "hugo-cactus-theme"
+theme: "cactus"
 
 params:
     name: "Codey Oxley"
