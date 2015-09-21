@@ -1,6 +1,6 @@
 # vim: set ts=2 sts=2 sw=2 expandtab:
 ---
-box: debian
+box: wercker/default
 build:
   steps:
     - arjen/hugo-build:
@@ -11,7 +11,7 @@ build:
 
 deploy:
   steps:
-    - gh-pages:
+    - lukevivier/gh-pages@0.2.1:
       token: $GIT_TOKEN
       domain: coxley.com
       basedir: public
