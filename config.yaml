@@ -1,0 +1,22 @@
+---
+baseurl: "http://www.coxley.com/"
+languageCode: "en-us"
+title: "Codey Oxley"
+theme: "hugo-cactus-theme"
+
+params:
+    name: "Codey Oxley"
+    description: "Just another tech blog"
+    bio: "Infrastructure Engineer"
+    twitter: "codeyoxley"
+    github: "coxley"
+    GitHubUser: "coxley"
+    # disqusShortname: "coxleycom"
+    disqusShortname: ""
+    googleAnalytics: ""
+    enableRSS: true
+
+    home: "Home"
+    about: "About"
+    title404: "Oops!"
+    subtitle404: "Page not found"
