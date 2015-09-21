@@ -1,0 +1,17 @@
+# vim: set ts=2 sts=2 sw=2 expandtab:
+---
+box: wrecker/default
+build:
+  steps:
+    - arjen/hugo-build:
+      version: 0.13
+      theme: cactus
+      config: config.yaml
+      flags: ""
+
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: coxley.com
+        basedir: public
