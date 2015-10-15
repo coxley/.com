@@ -1,6 +1,6 @@
 ---
 date: "2015-10-14T22:47:06-07:00"
-description: "The whats and the whys"
+description: "What, Why, WHERE?!"
 title: "Introduction to NSoT: Part 1"
 ---
 
@@ -11,6 +11,12 @@ series I hope to demystify NSoT while walking you through using it.
 ### What is NSoT and is it only for "DevOps"?
 
 ### Disclaimer
+
+As of this writing, NSoT is pre-1.0 software at version 0.10.6 and though I
+consider it production-ready, that may worry some. This is
+understandable, but note that 1.0 is **very** close. When it comes it'll bring
+revamped web interface, proper network host allocations/reserves, and hopefully
+ASN support.
 
 ### Real World Applications
 
