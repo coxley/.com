@@ -5,9 +5,10 @@ title: "Introduction to NSoT: Part 1"
 draft: true
 ---
 
-We're using NSoT in production since last month and it's great. Unfortunately
-outside of Dropbox (and well, us!), I don't know anyone using it. In this
-series I hope to demystify NSoT while walking you through using it.
+We're using the Network Source of Truth (NSoT) in production since last month
+and it's great. Unfortunately outside of Dropbox (and well, us!), I don't know
+anyone using it. In this series I hope to demystify NSoT while walking you
+through using it.
 
 ### What is NSoT and is it only for "DevOps"?
 
