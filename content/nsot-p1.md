@@ -2,6 +2,7 @@
 date: "2015-10-14T22:47:06-07:00"
 description: "What, Why, WHERE?!"
 title: "Introduction to NSoT: Part 1"
+draft: true
 ---
 
 We're using NSoT in production since last month and it's great. Unfortunately
